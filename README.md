@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/PTqXTbx.png"></p>
+<p align="center"><img src="https://simo-c3.github.io/image_url/shachihoko-app.png"></p>
 
 ## Usage
 
