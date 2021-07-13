@@ -2,10 +2,6 @@
 
 ## Usage
 
-```bash
-# create an app
-$ nuxtron init my-app --example with-javascript
-
 # install dependencies
 $ cd my-app
 $ npm install
